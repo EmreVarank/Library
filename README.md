@@ -27,7 +27,7 @@ Before running the project, make sure you have the following set up:
 
 **1️⃣Database Setup:** Set up your database using either SQL Server or SQLite.
 
-**2️⃣Database Structure:** Run the **_createdatabase.sql_** file to create the necessary database structure.
+**2️⃣Database Structure:** Run the **_libdb.sql_** file to create the necessary database structure.
 
 **3️⃣Database Connection:** Configure the database connection settings in the **_serverConnection.py_** file to match your database setup.
 
